@@ -1,4 +1,4 @@
-# AppProj2
+# Covid-Today
 
 A new Flutter project.
 
